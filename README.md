@@ -1,6 +1,12 @@
 # python-chat-application
 Simple Chat Application Using TCP
 
+# Requirement 
+tkinter 
+
+$ pip install tkinter --user
+
+
 # On server machine
 $ python3 server.py
 
